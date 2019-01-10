@@ -1025,6 +1025,13 @@ speakers:
     URL: "https://www.atos.net"
     intro: ""
     photo: "speakers/clive_grethe.jpeg"	
+  - id: "jason_oconnell"
+    name: "Jason O'Connell (Macquarie)"
+    role: ""
+    company: "Macquarie Bank"
+    URL: "https://www.macquarie.com/"
+    intro: ""
+    photo: "speakers/jason_oconnell.jpeg"	
 sponsors:
   - name: "microsoft-helsinki"
     link: "https://www.microsoft.com"
