@@ -3,7 +3,7 @@ speakers:
     name: "Diane Mueller"
     role: "Director, Community Development, Cloud Platform"
     company: "Red Hat"
-    URL: "https://commons.openshift.org"
+    URL: "https://commons.openshift.org#join"
     intro: ""
     photo: "speakers/diane.jpg"
   - id: "julio_tapia"
