@@ -71,7 +71,8 @@ gatherings:
       session_name: "AMA Live Chat with Speaker, Panelists and Community"
       track: "Virtual Stage"
       speakers:
-        - id: "diane"  
+        - id: "diane" 
+        - id: "jan_kleinert"
     - local_time: "1:30 pm"
       session_name: "Lessons Learned under the Big Tent: The OpenStack Journey"
       speakers: 
